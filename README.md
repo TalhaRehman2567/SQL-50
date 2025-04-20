@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/TalhaRehman2567/SQL-50/tree/master/0319-bulb-switcher) |
+## Array
+|  |
+| ------- |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/TalhaRehman2567/SQL-50/tree/master/0748-largest-number-at-least-twice-of-others) |
+## Sorting
+|  |
+| ------- |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/TalhaRehman2567/SQL-50/tree/master/0748-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
